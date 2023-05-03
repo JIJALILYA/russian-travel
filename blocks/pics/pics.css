@@ -1,0 +1,7 @@
+.pics {
+    transition-duration: 1s;
+}
+  
+.pics:hover{
+    opacity: 0.8;
+}
