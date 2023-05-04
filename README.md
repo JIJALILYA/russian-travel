@@ -17,5 +17,8 @@
 
 **Картинки**
 
-![Image alt](https://github.com/JIJALILYA/russian-travel/blob/main/cover-trains.jpg)
+![Image alt](https://github.com/JIJALILYA/russian-travel/blob/main/images/cover-trains.jpg)
 
+**Ссылка на gh-pages**
+
+* [Ссылка на сайт](https://jijalilya.github.io/russian-travel/)
