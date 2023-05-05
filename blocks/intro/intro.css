@@ -1,29 +1,29 @@
 @media (min-width: 1279px) {
-    .intro{
+    .intro {
         margin-left: 148px;
         margin-right: 442px;
         margin-top: 92px;
     }
 }
 
-@media (min-width: 1023px) and (max-width: 1279px) {
-    .intro{
+@media (min-width: 1023px) and (max-width: 1278px) {
+    .intro {
         margin-left: 48px;
         margin-right: 286px;
         margin-top: 92px;
     }
 }
 
-@media (min-width: 767px) and (max-width: 1023px) {
-    .intro{
+@media (min-width: 767px) and (max-width: 1022px) {
+    .intro {
         margin-left: 24px;
         margin-right: 24px;
         margin-top: 88px;
     }
 }
 
-@media (max-width: 767px) {
-    .intro{
+@media (max-width: 766px) {
+    .intro {
         margin-left: 16px;
         margin-right: 16px;
         margin-top: 64px;

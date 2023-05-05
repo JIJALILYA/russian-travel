@@ -1,36 +1,36 @@
-.lead{
+.lead {
     display: flex;
     flex-direction: column;
     max-width: 984px;
-    max-height: 1005px;
+    min-height: 1005px;
 }
 
 @media (min-width: 1279px) {
-    .lead{
+    .lead {
         margin-left: 148px;
         margin-right: 148px;
         margin-top: 56px;
     }
 }
 
-@media (min-width: 1023px) and (max-width: 1279px) {
-    .lead{
+@media (min-width: 1023px) and (max-width: 1278px) {
+    .lead {
         margin-left: 48px;
         margin-right: 48px;
         margin-top: 48px;
     }
 }
 
-@media (min-width: 767px) and (max-width: 1023px) {
-    .lead{
+@media (min-width: 767px) and (max-width: 1022px) {
+    .lead {
         margin-left: 0;
         margin-right: 0;
         margin-top: 48px;
     }
 }
 
-@media (max-width: 767px) {
-    .lead{
+@media (max-width: 766px) {
+    .lead {
         margin-left: 0;
         margin-right: 0;
         margin-top: 48px;

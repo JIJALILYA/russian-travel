@@ -1,11 +1,11 @@
-.places{
+.places {
     display: grid;
     grid-template-columns: 1;
     grid-template-rows: repeat(5, 1fr);
 }
 
 @media (min-width: 1279px) {
-    .places{
+    .places {
         margin-top: 92px;
         margin-right: 148px;
         margin-left: 148px;
@@ -13,8 +13,8 @@
     }
 }
 
-@media (min-width: 1023px) and (max-width: 1279px) {
-    .places{
+@media (min-width: 1023px) and (max-width: 1278px) {
+    .places {
         margin-top: 92px;
         margin-right: 48px;
         margin-left: 48px;
@@ -22,8 +22,8 @@
     }
 }
 
-@media (min-width: 767px) and (max-width: 1023px) {
-    .places{
+@media (min-width: 767px) and (max-width: 1022px) {
+    .places {
         margin-top: 88px;
         margin-right: 24px;
         margin-left: 24px;
@@ -31,8 +31,8 @@
     }
 }
 
-@media (max-width: 767px) {
-    .places{
+@media (max-width: 766px) {
+    .places {
         margin-top: 64px;
         margin-right: 0px;
         margin-left: 0px;

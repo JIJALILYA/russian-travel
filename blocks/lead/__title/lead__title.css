@@ -1,4 +1,4 @@
-.lead__title{
+.lead__title {
     font-style: normal;
     font-weight: 900;
     font-size: 96px;
@@ -8,7 +8,6 @@
     margin: 0;
     padding: 0;
     max-width: 720px;
-    min-height: 200px;
     align-self: center;
     margin-bottom: 32px;
 }

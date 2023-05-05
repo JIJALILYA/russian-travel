@@ -1,26 +1,26 @@
 @media (min-width: 1279px) {
-    .place__website{
+    .place__website {
         margin-bottom: 48px;
         margin-top: 30px;
     }
 }
 
-@media (min-width: 1023px) and (max-width: 1279px){
-    .place__website{
+@media (min-width: 1023px) and (max-width: 1278px) {
+    .place__website {
         margin-bottom: 48px;
         margin-top: 30px;
     }
 }
 
-@media (min-width: 767px) and (max-width: 1023px) {
-    .place__website{
+@media (min-width: 767px) and (max-width: 1022px) {
+    .place__website {
         margin-bottom: 48px;
         margin-top: 0;
     }
 }
 
-@media (max-width: 767px) {
-    .place__website{
+@media (max-width: 766px) {
+    .place__website {
         margin-bottom: 32px;
         margin-top: 32px;
     }

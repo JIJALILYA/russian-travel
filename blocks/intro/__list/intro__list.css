@@ -1,4 +1,4 @@
-.intro__list{
+.intro__list {
     margin: 0;
     padding: 0;
     font-style: normal;
@@ -7,6 +7,5 @@
     line-height: 18px;
     color: #FFFFFF;
     max-width: 690px;
-    min-height: 90px;
     list-style-type: none;
 }
