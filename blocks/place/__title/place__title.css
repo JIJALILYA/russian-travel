@@ -9,26 +9,18 @@
     margin: 0;
 }
 
-@media (min-width: 1279px) {
-    .place__title {
-        margin-bottom: 40px;
-    }
-}
-
-@media (min-width: 1023px) and (max-width: 1278px) {
-    .place__title {
-        margin-bottom: 40px;
-    }
-}
-
 @media (min-width: 767px) and (max-width: 1022px) {
     .place__title {
-        margin-bottom: 40px;
+        font-size: 42px;
+        line-height: 46px;
     }
 }
 
 @media (max-width: 766px) {
     .place__title {
         margin-bottom: 32px;
+        font-size: 32px;
+        line-height: 35px;
+        margin-left: 15px;
     }
 }

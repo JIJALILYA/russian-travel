@@ -2,6 +2,7 @@
     display: grid;
     grid-template-columns: 1;
     grid-template-rows: repeat(5, 1fr);
+    row-gap: 80px;
 }
 
 @media (min-width: 1279px) {
@@ -9,7 +10,6 @@
         margin-top: 92px;
         margin-right: 148px;
         margin-left: 148px;
-        row-gap: 80px;
     }
 }
 
@@ -18,7 +18,6 @@
         margin-top: 92px;
         margin-right: 48px;
         margin-left: 48px;
-        row-gap: 80px;
     }
 }
 

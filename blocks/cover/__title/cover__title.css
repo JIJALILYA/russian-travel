@@ -11,24 +11,7 @@
     max-width: 560px;
     align-self: center;
     text-decoration: none;
-}
-
-@media (min-width: 1279px) {
-    .cover__title {
-        margin-bottom: 32px;
-    }
-}
-
-@media (min-width: 1023px) and (max-width: 1278px) {
-    .cover__title {
-        margin-bottom: 32px;
-    }
-}
-
-@media (min-width: 767px) and (max-width: 1022px) {
-    .cover__title {
-        margin-bottom: 32px;
-    }
+    margin-bottom: 32px;
 }
 
 @media (max-width: 766px) {

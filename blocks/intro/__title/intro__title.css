@@ -9,3 +9,10 @@
     max-width: 690px;
     margin-bottom: 40px;
 }
+
+@media (max-width: 766px) {
+    .intro__title {
+        font-size: 32px;
+        line-height: 35px;
+    }
+}

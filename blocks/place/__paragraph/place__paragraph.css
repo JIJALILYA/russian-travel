@@ -7,3 +7,11 @@
     margin: 0;
     padding: 0;
 }
+
+
+@media (max-width: 766px) {
+    .place__paragraph {
+        margin-left: 15px;
+        margin-top: 32px;
+    }
+}

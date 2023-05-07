@@ -7,6 +7,7 @@
         column-gap: 40px;
         grid-template-columns: repeat(2, minmax(0, auto));
         grid-template-rows: repeat(3, minmax(0, auto));
+        width: 984px;
     }
 }
 
@@ -15,6 +16,7 @@
         column-gap: 32px;
         grid-template-columns: repeat(2, minmax(0, auto));
         grid-template-rows: repeat(3, minmax(0, auto));
+        width: 928px;
     }
 }
 
@@ -23,6 +25,7 @@
         column-gap: 28px;
         grid-template-columns: repeat(2, minmax(0, auto));
         grid-template-rows: repeat(3, minmax(0, auto));
+        width: 720px;
     }
 }
 
@@ -30,5 +33,6 @@
     .place {
         grid-template-columns: 1fr;
         grid-template-rows: repeat(5, minmax(0, auto));
+        width: 320px;
     }
 }

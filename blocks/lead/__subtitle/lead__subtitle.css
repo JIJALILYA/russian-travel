@@ -11,3 +11,18 @@
     align-self: center;
     margin-bottom: 64px;
 }
+
+@media (min-width: 767px) and (max-width: 1022px) {
+    .lead__subtitle {
+        margin-bottom: 56px;
+    }
+}
+
+@media (max-width: 766px) {
+    .lead__subtitle {
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 20px;
+        margin-bottom: 40px;
+    }
+}
