@@ -22,5 +22,8 @@
         font-size: 32px;
         line-height: 35px;
         margin-left: 15px;
+        font-style: normal;
+        max-width: 288px;
+        max-height: 35px;
     }
 }

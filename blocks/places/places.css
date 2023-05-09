@@ -1,6 +1,6 @@
 .places {
     display: grid;
-    grid-template-columns: 1;
+    grid-template-columns: 1, 1fr;
     grid-template-rows: repeat(5, 1fr);
     row-gap: 80px;
 }
@@ -32,9 +32,8 @@
 
 @media (max-width: 766px) {
     .places {
-        margin-top: 64px;
         margin-right: 0px;
         margin-left: 0px;
-        row-gap: 50px;
+        row-gap: 25px;
     }
 }

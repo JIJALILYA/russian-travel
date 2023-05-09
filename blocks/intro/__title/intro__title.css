@@ -10,6 +10,12 @@
     margin-bottom: 40px;
 }
 
+@media (min-width: 767px) and (max-width: 1022px) {
+    .intro__title {
+        max-width: 720px;
+    }
+}
+
 @media (max-width: 766px) {
     .intro__title {
         font-size: 32px;
