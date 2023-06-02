@@ -2,12 +2,17 @@
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
-    line-height: 163%;
+    line-height: 26.08px;
     color: #FFFFFF;
     margin: 0;
     padding: 0;
-    margin-bottom: 25px;
 }
+
+.place__paragraph:nth-child(2){
+    margin-top: 25px;
+    margin-bottom: 50px;
+}
+
 
 @media (min-width: 767px) and (max-width: 1022px) {
     .place__paragraph {

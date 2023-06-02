@@ -1,6 +1,6 @@
 .places {
     display: grid;
-    grid-template-columns: 1, 1fr;
+    grid-template-columns: 1fr;
     grid-template-rows: repeat(5, 1fr);
     row-gap: 80px;
 }
@@ -26,7 +26,7 @@
         margin-top: 88px;
         margin-right: 24px;
         margin-left: 24px;
-        row-gap: 72px;
+        row-gap: 46px;
     }
 }
 
@@ -34,6 +34,6 @@
     .places {
         margin-right: 0px;
         margin-left: 0px;
-        row-gap: 25px;
+        row-gap: 0px;
     }
 }
